@@ -1,25 +1,25 @@
 # KSUpeers
 Our graduation project for diploma degree in Programming and database at KSU
-
+<br>
 <hr>
 
 ## Team members:
-Seba Homod Alshedokhi
-Layan Sroor
-Wafaa Abdullah Alshaer
-Abrar Alsharafi 
-Bashayer Alkhurayji 
-
+Seba Homod Alshedokhi<br>
+Layan Sroor<br>
+Wafaa Abdullah Alshaer<br>
+Abrar Alsharafi <br>
+Bashayer Alkhurayji <br>
+<br>
 ### Principal Supervisor:
-Dr. Aseel Alhadlaq
-
-Department of Computer Science and Engineering
-College of Applied Studies
-King Saud University
-Riyadh,  Saudi Arabia
-Second Semester 1447
-Summer 2026
-
+Dr. Aseel Alhadlaq<br>
+<br>
+Department of Computer Science and Engineering<br>
+College of Applied Studies<br>
+King Saud University<br>
+Riyadh,  Saudi Arabia<br>
+Second Semester 1447<br>
+Summer 2026<br>
+<br>
 <hr>
 
 ## Abstract
