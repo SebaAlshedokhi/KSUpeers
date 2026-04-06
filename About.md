@@ -1,20 +1,20 @@
-# communecating:
+## communecating:
 - WhatApp <br>
 - Google Meet <br>
 - Discord <br>
 <br>
-<hr>
 
-# sketch:
+
+## sketch:
 - Hand sketch <br>
 - Figma <br>
 <br>
-<hr>
 
-# Framework:
+
+## Framework:
 Android Studio
 <br>
-<hr>
 
-# Programming Language:
+
+## Programming Language:
 Java, XML, Firebase NoSQL
